@@ -14,7 +14,7 @@ public class Eva_2_24_Collections {
         array.add(new Dog());
         array.add(new Auto());
         
-        ArrayList <Integer> array2 = new ArrayLIst<Integer>();
+        ArrayList <Integer> array2 = new ArrayList<Integer>();
         array2.add(1000);
         array2.add(2000);
         array2.add(3000);

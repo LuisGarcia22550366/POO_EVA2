@@ -52,6 +52,8 @@ public class Bycicle extends VehicleClass implements Vehicle{
     @Override
     public void tablePrint() {
         System.out.println("Velocidad bicicleta: " + getVelocity());
+        System.out.println("Tipo de bicicleta: " + getType());
+        System.out.println("Neumaticos: " + getNeumatics());
     }
 
 }

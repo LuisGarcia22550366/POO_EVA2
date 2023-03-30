@@ -55,6 +55,8 @@ public class Auto extends VehicleClass  implements Vehicle{
     @Override
     public void tablePrint() {
         System.out.println("Velocidad del automovil: " + getVelocity());
+        System.out.println("Marca: " + getMarca());
+        System.out.println("Modelo: " + getAge());
     }
 
 }
